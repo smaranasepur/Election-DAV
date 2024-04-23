@@ -1,4 +1,5 @@
 TITLE:ELECTION DATA ANALYSIS AND VISUALIZATION
+
 1.PROBLEM STATEMENT:
 Election Data Analysis and Visualization:
 Analyze election results data to understand voting patterns, demographic trends, and electoral outcomes.
