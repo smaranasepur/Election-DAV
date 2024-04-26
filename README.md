@@ -1,5 +1,11 @@
 TITLE:ELECTION DATA ANALYSIS AND VISUALIZATION
 
+NAME - ROLL.NO. :
+1.K.Likhitha - 160122737009
+2.Smarana.S - 160122737022
+
+FACULTY: Dr.Kolikipogu Ramakrishna sir
+
 1.PROBLEM STATEMENT:
 Election Data Analysis and Visualization:
 Analyze election results data to understand voting patterns, demographic trends, and electoral outcomes.
